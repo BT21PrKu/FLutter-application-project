@@ -6,8 +6,8 @@ The following app displays details of student . When the code is run the app sho
 
 # Snapshots of the running app
 1.When the app is just opened
-  ![image](https://github.com/BT21PrKu/FLutter-application-project/assets/135816036/0c21c8ba-91c5-4722-9456-eba7a82ade93)
-
+  <img src="https://github.com/BT21PrKu/FLutter-application-project/assets/135816036/0c21c8ba-91c5-4722-9456-eba7a82ade93" width= 200 height=350 >
+  
 2.When the first button is pressed
   ![image](https://github.com/BT21PrKu/FLutter-application-project/assets/135816036/cc77b4de-3c15-4de4-855b-e99c05fdf0ef)
 
